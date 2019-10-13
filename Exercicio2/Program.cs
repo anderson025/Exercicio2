@@ -56,6 +56,8 @@ namespace Exercicio2
                 Console.WriteLine(p.EtiquetaPreco());
             }
 
+            
+
 
 
 
